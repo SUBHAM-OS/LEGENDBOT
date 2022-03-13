@@ -3,7 +3,7 @@ PLUGGABLE USERBOT BASED ON TELETHON
 
 
 ## Deploy 
-- Click Here :- [main repo](https://github.com/LEGEND-AI/LEGENDBOT)
+- Click Here :- [main repo](https://github.com/SUBHAM-OS/LEGENDBOT)
 - Fork The Main Repo 
 - Go to Setting Of Repo 
 - Rename the Fork Repo Put Anything Example : LEGEND1BOT, HSKSBOT, LEGENDOFFBOT etc...
